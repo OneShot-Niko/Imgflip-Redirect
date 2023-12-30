@@ -22,9 +22,10 @@ Go to `about:debugging#/runtime/this-firefox` or simply `about:debugging` and cl
 Afterwards, click "Load Temporary Addon".<br>
 Now, go into the folder you extracted the zip to, then find & load the `manifest.json`. Nothing is needed to be changed.
 > [!Warning]
->
-> 
-> "Load Temporary Addon" isn't any image flip, that's ***serious***. Serious enough that it warrants a `comic-sans-ms` meme.
+> "Load Temporary Addon" isn't any image flip, that's ***serious***. Serious enough that it warrants a `comic-sans-ms` meme.<br>
+> Please note that I am also unable to load the extension on Firefox no matter how hard I try, but it works on LibreWolf. No idea what causes this issue even if all other extensions are disabled, but if you are also encountering this, open an issue. Note that I'm probably gonna be failing to resolve it as I'm just bad at JS and again mybearworld basically carried the entire thing when I was screwing with the `manifest.json`
+
+
 ## Loading (Chrome/Chromium)
 Note that this may vary. For chrome users, the place you want to go to is `chrome://extensions`, whilst for example Vivaldi users need `vivaldi://extensions`. Please keep in mind since I do not use Chrome (instead I use Vivaldi for tests) I will be using Vivaldi for this.<br>
 You want to go to your extensions (`chrome://extensions/`, in my case that's `vivaldi://extensions/`.)<br>
