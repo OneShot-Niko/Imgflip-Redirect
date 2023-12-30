@@ -1,0 +1,18 @@
+{
+  "manifest_version": 2,
+  "name": "Imgflip Redirect",
+  "version": "1.0",
+
+  "description": "Redirects you to /followed - If I ever get better at coding, I'll try extending this to trying to revert UI changes.",
+
+  "icons": {
+    "96": "icons/redirect-96.svg"
+  },
+
+  "content_scripts": [
+    {
+      "matches": ["https://imgflip.com/", "https://imgflip.com/#"],
+      "js": ["redirect.js"]
+    }
+  ]
+}
