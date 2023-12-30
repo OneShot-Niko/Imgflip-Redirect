@@ -4,6 +4,13 @@
 Currently I'm too bad at code so this extension doesn't appear to work all that well besides when I try on LibreWolf. Guessing it's a conflict with another extension.
 <br>Anyways, this is a test extension simply because I wanted to make one, if I ever get better at coding, I may try making this extension just revert any new UI change because of how nostalgic and wellmade the original UI felt, which is now stripped behind a singular annoying click lol.
 <br>I'd publish to Mozilla Addons (I do not use Chrome whatsoever) however I'm a bit too lazy, so have at it.
+# Credits
+
+<img src="https://avatars.githubusercontent.com/u/130385691?v=4" alt="mybearworld" align="center" width="128px"></img>
+[@mybearworld](https://github.com/mybearworld)
+<br>
+mybearworld basically carried the entire thing because I ran into errors I had no idea what they meant as I'm horrible at any type of coding
+<br>
 ## Installation (via Zipball)
 Firstly, click the ![code](https://github.com/OneShot-Niko/Imgflip-Redirect/assets/150537842/e9f4e3c5-fe11-464e-9b36-4fd7e96184cc) icon.<br>
 Next, click ![download zip](https://github.com/OneShot-Niko/Imgflip-Redirect/assets/150537842/51aea15c-c89b-46da-be53-51e3eef0f38f).
